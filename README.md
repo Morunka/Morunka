@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Morunka
+- 👋 Hi, I’m Morunka
 - 👀 I’m interested in: programming games and web-sites
 - 🌱 I’m currently learning: web-site developing
 - 📫 How to reach me: https://t.me/MEOW_MUR920
