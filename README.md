@@ -2,7 +2,7 @@
 - 👀 I’m interested in: programming games and web-sites
 - 📫 How to reach me: https://t.me/MEOW_MUR920
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I code with VS Code and i By ROlil Studio SEO
+- ⚡ Fun fact: I code with VS Code
 - 🖥️ Operation System: LinuxArch
 - 👨‍💻 Role: Junior (Web frontend)
 - 📦 Stack: HTML, CSS, JS, Vue.js, PenguinMod
