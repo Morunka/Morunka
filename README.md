@@ -16,9 +16,7 @@
 
 ## 🚧 Currently Learning
 - Pinia (state management in Vue)
-- Tailwind CSS
 - React + JSX
-- Godot Engine & Unity
 - API Testing tools like Postman / curl
 
 ## 🎮 Other Projects
