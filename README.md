@@ -3,9 +3,8 @@
 - 👀 I’m interested in: game development, web development, and backend with REST API
 - 📫 How to reach me: [Telegram](https://t.me/MEOW_MUR920)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I code in VS Code and test live in Cursor
+- ⚡ Fun fact: I code in VS Code
 - 🖥️ Operating System: Arch Linux
-- 👨‍💻 Role: Junior Web Developer (Frontend & REST API)
 - 🌐 Website: [morunka.github.io](https://morunka.github.io)
 
 ## 💼 Stack
